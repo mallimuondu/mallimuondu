@@ -13,12 +13,13 @@ Hi, I'm [MalliMuondu](https://medium.com/@mallimuondu/my-first-experience-of-cod
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning python ; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me on Gmail: [@Malli](https://mail.google.com/mail/u/0/#search/Malli);
+- 📫 How to reach me:[@Gmail](https://mail.google.com/mail/u/0/#search/Malli) [@youtube](https://www.youtube.com/channel/UCw8WbwJUOh4dntF04lUHjNg/videos?view=0&sort=dd&shelf_id=1) [@Medium](https://medium.com/@mallimuondu);
 - 📝[Resume](https://github.com/mallimuondu/resume)
 
 **Languages i am studying :**  
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<img src="Storefront13Banner.png" height="100"></code>
+
 
 
 📊 **This Week I Spent My Time On:**
